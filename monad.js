@@ -104,8 +104,6 @@ var arrayMonad = monad({
 	}
 });
 
-var Maybe = 
-
 
 (function() {
 
